@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 <img width="100%" src="/assets/separator.png">
 
 ## 😎 About me
-  
 </div>
 
 ```js
