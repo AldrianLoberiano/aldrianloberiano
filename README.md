@@ -6,8 +6,6 @@
 
 ## Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on **Building Website and Sofware**
 - 🌱 I’m currently learning **Laravel and Django Framework**
 - 💬 Ask me about **Technology and Personal Development**
