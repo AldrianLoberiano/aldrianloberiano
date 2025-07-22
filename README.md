@@ -18,7 +18,7 @@
 ```js
   const User = {
     name: "Aldrian Loberiano",
-    born: "16/07/2001 in Sta Lucia, Pasig City",
+    born: "07/16/2001 in Sta Lucia, Pasig City",
     nationality: "Filipino",
     role: "FrontEnd",
     hobbies: ["Dota/Develop Websites", "Watch Animes/Formula-1"]
