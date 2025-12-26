@@ -18,7 +18,7 @@
     name: "Aldrian Loberiano",
     born: "07/16/2001 in Sta Lucia, Pasig City",
     nationality: "Filipino",
-    role: "FrontEnd",
+    role: "FullStack Developer, System Administrator, Network Engineer",
     hobbies: ["Develop Websites", "Watch Animes"]
   }
   
