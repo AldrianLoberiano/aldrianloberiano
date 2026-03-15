@@ -4,8 +4,8 @@
 
 ## Hi there 👋
 
-- 🔭 I’m currently working on **Building Website and Sofware**
-- 🌱 I’m currently learning **Laravel and Django Framework**
+- 🔭 I’m currently working on **Building Website and Software**
+- 🌱 I’m currently learning **Laravel and Django Framework **
 - 💬 Ask me about **Technology and Personal Development**
 
 <img width="100%" src="/assets/separator.png">
