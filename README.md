@@ -1,33 +1,3 @@
-<p align="center">
-<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#a100ff"/>
-      <stop offset="100%" stop-color="#00c6ff"/>
-    </linearGradient>
-  </defs>
-
-  <!-- Background -->
-  <rect width="800" height="200" fill="black"/>
-
-  <!-- Top gradient banner -->
-  <rect width="800" height="80" fill="url(#grad)"/>
-
-  <!-- Title -->
-  <text x="50%" y="50" dominant-baseline="middle" text-anchor="middle"
-        fill="white" font-size="30" font-family="Arial">
-    Welcome to My Profile
-  </text>
-
-  <!-- Animated text -->
-  <text x="50%" y="140" dominant-baseline="middle" text-anchor="middle"
-        fill="#00F5D4" font-size="24" font-family="Courier">
-    <animate attributeName="opacity" values="0;1;0" dur="3s" repeatCount="indefinite"/>
-    Always learning new technologies 🚀
-  </text>
-</svg>
-</p>
-
 <img height="28em" src="https://komarev.com/ghpvc/?username=AldrianLoberiano&style=flat-square&color=00ff84"/>
 
 <img width="100%" src="/assets/separator.png">
