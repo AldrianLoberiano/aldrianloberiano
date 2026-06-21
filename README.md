@@ -4,6 +4,6 @@
 
 ## Hi there 👋
 
-- 🔭 I’m currently working on **Building Website, Software, Pentesting, Training Datasets, Cybersecurity**
+- 🔭 I’m currently working on **Building Website, Software, Pentesting, Training Datasets, and Cybersecurity**
 - 🌱 I’m currently learning **Laravel, Django, MERN, Ethical Hacking, Computer Vision, Network and System**
 - 💬 Ask me about **Technology and Personal Development**
