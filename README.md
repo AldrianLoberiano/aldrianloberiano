@@ -2,7 +2,7 @@
 
 <img width="100%" src="/assets/separator.png">
 
-## Hi
+## Hi!
 
 - 🔭 I’m currently working on **Building Websites, Softwares, Pentesting, Training Datasets, and Cybersecurity**
 - 🌱 I’m currently learning **Laravel, Django, MERN, Ethical Hacking, Computer Vision, Network and System**
