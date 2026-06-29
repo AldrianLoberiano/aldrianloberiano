@@ -1,7 +1,5 @@
 <img height="28em" src="https://komarev.com/ghpvc/?username=AldrianLoberiano&style=flat-square&color=00ff84"/>
 
-<img width="100%" src="/assets/separator.png">
-
 ## Hi!
 
 - 🔭 I’m currently working on **Building Websites, Softwares, Pentesting, Training Datasets, and Cybersecurity**
